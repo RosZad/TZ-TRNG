@@ -1,4 +1,4 @@
-# ARM TrustZone True Number Generator
+# ARM TrustZone True Random Number Generator (TRNG)
 
 This software product contains the following open source components:
 
