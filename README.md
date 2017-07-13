@@ -1,8 +1,8 @@
-# ARM TrustZone True Number Generator
+# ARM TrustZone True Random Number Generator
 
 This software product contains the following open source components:
 
-* ARM TrustZone TRNG driver.
+* ARM TrustZone True Random Number Generator (TRNG) driver.
 * ARM TrustZone TRNG integration test.
 * Characterization reference code.
 	
