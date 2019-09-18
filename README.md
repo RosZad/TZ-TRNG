@@ -1,9 +1,9 @@
-# ARM TrustZone True Number Generator
+# Arm True Number Generator
 
 This software product contains the following open source components:
 
-* ARM TrustZone TRNG driver.
-* ARM TrustZone TRNG integration test.
+* Arm TRNG driver.
+* Arm TRNG integration test.
 * Characterization reference code.
 	
 
@@ -18,7 +18,7 @@ Containing:
     host/  
 * Software Integrator's Manual   (trustzone_true_random_number_generator_software_integrators_manual_101049_0000_00_en.pdf)
 
-ARM TrustZone TRNG supports 32-bit systems.
+Arm TRNG supports 32-bit systems.
 
 ## License 
 
@@ -27,7 +27,7 @@ This software is provided under the Apache-2.0 license. Contributions to this pr
 	
 ## Release details
 
-This release contains the ARM TrustZone TRNG software.
+This release contains the Arm TRNG software.
 
 ### Prerequisites:
 
